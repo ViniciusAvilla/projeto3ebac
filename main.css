@@ -1,0 +1,43 @@
+* {
+    font-family: 'Phudu', cursive;
+}
+
+.navbar {
+    background-color: rgba(68, 117, 145, 0.952);
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: rgba(68, 117, 145, 0.952) ;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: rgb(218, 218, 218);
+}
+
+#sobre img {
+    width: 1920px;
+    height: 720px;
+}
+
+.container h1 {
+    color: #fff;
+    font-size: 38px;
+}
+
+#sobre {
+    background-color: rgba(68, 117, 145, 0.24);
+}
+
+#catalogo {
+    background-color: aquamarine;
+}
+
+#fale-conosco {
+    background-color: rgba(0, 255, 255, 0.267);
+}
